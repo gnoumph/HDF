@@ -2840,7 +2840,7 @@ span[style*="color: #980000;"], span[style*="color: #ff0000;"] {
     color: rgb(163, 58, 58)!important;
   }
 
-  span[style*="color: blue;"] {
+  span[style*="color: blue;"], marquee[stume*="bgcolor=blue;"] {
     color: #4B6AB3!important;
   }
 
@@ -3015,3 +3015,7 @@ html body#torrents div#wrapper div#content div.thin div form.search_form table.l
       margin-top: 5px;
       width: 90%;
     }
+
+marquee {
+	margin-top:15px
+}
