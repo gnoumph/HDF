@@ -2702,6 +2702,10 @@ form[name="staff_message"] > #textarea_wrap_0 > div{
 img[src*="https://hdf.world/static/common/ClaraM2.jp"] {
   display: none;
 }
+img[src*="https://hdf.world/static/common/ClaraM4.jpg"] {
+  display: none;
+}
+
 
 .box_addtorrent {
   display: grid;
