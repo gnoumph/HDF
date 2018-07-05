@@ -3025,3 +3025,8 @@ marquee {
     width: 100%!important;
     margin-top: 15px!important;
 }
+
+//correction de l'affichage des résumés
+#content > div.thin > div.main_column > div.box.torrent_description > div.body > span {
+	color:white!important!
+}
