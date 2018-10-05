@@ -2698,11 +2698,7 @@ form[name="staff_message"] > #textarea_wrap_0 > div{
   color: #9A9A9A!important;
 }
 
-
-img[src*="https://hdf.world/static/common/ClaraM2.jp"] {
-  display: none;
-}
-img[src*="https://hdf.world/static/common/ClaraM4.jpg"] {
+img[src*="https://hdf.world/static/common/ClaraM1.jpg"], img[src*="https://hdf.world/static/common/ClaraM1.jp"], img[src*="https://hdf.world/static/common/ClaraM2.jpg"], img[src*="https://hdf.world/static/common/ClaraM2.jp"], img[src*="https://hdf.world/static/common/ClaraM3.jpg"], img[src*="https://hdf.world/static/common/ClaraM3.jp"], img[src*="https://hdf.world/static/common/ClaraM4.jpg"], img[src*="https://hdf.world/static/common/ClaraM4.jp"] {
   display: none;
 }
 
