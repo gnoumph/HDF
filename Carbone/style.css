@@ -3026,3 +3026,10 @@ marquee {
 #content > div.thin > div.main_column > div.box.torrent_description > div.body > span {
 	color:white!important!
 }
+
+
+/*CORRECTION BR WYSIWYG*/
+.wysibb-text-editor > br
+{
+	display:initial;
+}
