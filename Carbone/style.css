@@ -3043,7 +3043,7 @@ padding: 10px 10px 10px 20px!important;
 padding: 20px 10px 10px 20px!important;
 }
 
-#torrents > div > #content > div.thin > div.main_column
+#torrents > div > #content > div.thin > div.main_column, #content > div > div.main_column
 {
 	width: 700px!important;
 }
