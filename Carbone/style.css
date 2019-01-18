@@ -3036,7 +3036,7 @@ marquee {
 }
 
 /*Correction de l'affichage des légendes sur la page des torrents*/
-#content > div > div:nth-child(3){
+#content > div.widethin > div:nth-child(3){
 padding: 10px 10px 10px 20px!important;
 }
 #content > div > div:nth-child(2) {
