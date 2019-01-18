@@ -3032,6 +3032,7 @@ marquee {
 .wysibb-text-editor > *
 {
 	display:initial!important;
+	opacity:unset!important;
 }
 
 /*Correction de l'affichage des légendes sur la page des torrents*/
