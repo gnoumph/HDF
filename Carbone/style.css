@@ -3039,3 +3039,8 @@ marquee {
 #torrents > div > #content > div:nth-child(2), #torrents > div > #content > div:nth-child(3) {
 padding: 10px 10px 10px 20px!important;
 }
+
+#torrents > div > #content > div.thin > div.main_column
+{
+	width: 700px!important;
+}
