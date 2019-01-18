@@ -3031,5 +3031,5 @@ marquee {
 /*CORRECTION BR WYSIWYG*/
 .wysibb-text-editor > *
 {
-	display:initial;
+	display:initial!important;
 }
