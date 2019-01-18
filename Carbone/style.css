@@ -3029,7 +3029,7 @@ marquee {
 
 
 /*CORRECTION BR WYSIWYG*/
-.wysibb-text-editor > br
+.wysibb-text-editor > *
 {
 	display:initial;
 }
