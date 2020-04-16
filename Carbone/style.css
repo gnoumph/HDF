@@ -2490,6 +2490,10 @@ tr.group_torrent td.edition_info {
   font-weight: bold;
     }
 
+img[src*="https://hdf.world/static/common/kim01.jpg"] {
+	display:none;*
+}
+
 /* FOND POUR LES NEWS*/
 .box.pad, .contentlayout>tbody, #content > table:nth-child(3) > tbody:nth-child(1){
   padding: 10px 10px 10px 20px;
