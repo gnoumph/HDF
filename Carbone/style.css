@@ -2826,7 +2826,7 @@ div.group_info.clear > a , div.group_info.clear > .tags > a {
 
 /*MODIFICATION DE LA COULEUR DES TEXTES*/
 span[style*="color: #00ff00;"], span[style*="color: #000000;"], span[style*="color: #274e13;"]  {
-  color: rgb(154, 154, 154)!important;
+  color: rgb(54, 153, 0)!important;
 
 }
 
