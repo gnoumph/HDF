@@ -2856,6 +2856,9 @@ span[style*="color: #980000;"], span[style*="color: #ff0000;"] {
   span[style*="color: blue;"]{
     color: #4B6AB3!important;
   }
+  a[style*="color: blue;"]{
+    color: #456478;
+  }
 
   span[style*="color: red;"],   p[style*="color: red;"] {
     color: rgb(163, 58, 58)!important;
@@ -3059,4 +3062,10 @@ padding: 20px 10px 10px 20px!important;
 #torrents > div > #content > div.thin > div.main_column, #content > div > div.main_column
 {
 	width: 700px!important;
+}
+
+/*Suppression background et décalage alertes sur la home*/
+#searchbars > ul > div{
+	margin-top: 5px;
+	background: none;
 }
