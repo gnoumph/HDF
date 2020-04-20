@@ -2845,6 +2845,9 @@ span[style*="color: #980000;"], span[style*="color: #ff0000;"] {
   b[style*="color: blue;"], span[style*="color: #0000ff;"]{
     color: #4B6AB3!important;
   }
+  a[style*="color: blue;"]{
+    color: #456478!important;
+  }
 
   b[style*="color: red;"]{
     color: rgb(163, 58, 58)!important;
@@ -2853,12 +2856,7 @@ span[style*="color: #980000;"], span[style*="color: #ff0000;"] {
     color: rgb(163, 58, 58)!important;
   }
 
-  span[style*="color: blue;"]{
-    color: #4B6AB3!important;
-  }
-  a[style*="color: blue;"]{
-    color: #456478;
-  }
+
 
   span[style*="color: red;"],   p[style*="color: red;"] {
     color: rgb(163, 58, 58)!important;
