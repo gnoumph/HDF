@@ -3066,4 +3066,7 @@ padding: 20px 10px 10px 20px!important;
 #searchbars > ul > div{
 	margin-top: 5px;
 	background: none;
+	padding: 0px!important;
 }
+
+
