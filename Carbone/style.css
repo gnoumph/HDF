@@ -2893,6 +2893,7 @@ background-size: 100%;
 */
 
 html body#chat div#wrapper div#content div.head.center {
+	margin: 20px;
   background:none!important;
 }
 #sortable{
