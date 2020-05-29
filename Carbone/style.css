@@ -3065,10 +3065,11 @@ padding: 20px 10px 10px 20px!important;
 }
 
 /*Suppression background et décalage alertes sur la home*/
-#searchbars > ul > div{
-	margin-top: 5px;
-	background: none;
-	padding: 0px!important;
+#searchbars > ul > div {
+margin-bottom: -10px;
+margin-top: 5px;
+background: none;
+padding: 0px!important;
 }
 
 
