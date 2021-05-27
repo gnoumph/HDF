@@ -1,5 +1,6 @@
 /*
   DarkMonoAlt - Modifié par HBO pour HDF
+  Puis modifié par EVOTk pour HDF ^^
   -----------------------------------------------------
 
   Original DarkMono v2 by htrd (a.hatred@gmail.com)
@@ -2704,7 +2705,7 @@ form[name="staff_message"] > #textarea_wrap_0 > div{
   color: #9A9A9A!important;
 }
 
-img[src*="https://hdf.world/static/common/ClaraM1.jpg"], img[src*="https://hdf.world/static/common/ClaraM1.jp"], img[src*="https://hdf.world/static/common/ClaraM2.jpg"], img[src*="https://hdf.world/static/common/ClaraM2.jp"], img[src*="https://hdf.world/static/common/ClaraM3.jpg"], img[src*="https://hdf.world/static/common/ClaraM3.jp"], img[src*="https://hdf.world/static/common/ClaraM4.jpg"], img[src*="https://hdf.world/static/common/ClaraM4.jp"] {
+img[src*="https://hdf.world/image.php?c=1&i=https%3A%2F%2Fhdf.world%2Fstatic%2Fcommon%2FHDFemme.jpg"], img[src*="https://hdf.world/static/common/HDFemme.jpg"], img[src*="https://hdf.world/static/common/HDFemme.jp"], img[src*="https://hdf.world/static/common/ClaraM1.jpg"], img[src*="https://hdf.world/static/common/ClaraM1.jp"], img[src*="https://hdf.world/static/common/ClaraM2.jpg"], img[src*="https://hdf.world/static/common/ClaraM2.jp"], img[src*="https://hdf.world/static/common/ClaraM3.jpg"], img[src*="https://hdf.world/static/common/ClaraM3.jp"], img[src*="https://hdf.world/static/common/ClaraM4.jpg"], img[src*="https://hdf.world/static/common/ClaraM4.jp"] {
   display: none;
 }
 
@@ -3071,5 +3072,3 @@ margin-top: 5px;
 background: none;
 padding: 0px!important;
 }
-
-
