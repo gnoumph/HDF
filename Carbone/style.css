@@ -92,7 +92,7 @@ li {
 }
 .class_33{
 	color: #DAA520;
-}	
+}
 .class_32{
 	color: #F0E68C;
 }
@@ -1792,6 +1792,7 @@ li.graph .center_poll {
   width: 25px;
 }
 
+/*
 .cats_music, .cats_comics, .cats_audiobooks, .cats_elearningvideos, .cats_comedy, .cats_applications, .cats_ebooks {
   margin: 0 !important;
   width: 25px !important;
@@ -1825,6 +1826,7 @@ li.graph .center_poll {
 .cats_ebooks {
   background: url("https://raw.githubusercontent.com/WhatCD/Gazelle/master/static/styles/mono/icons/ebooks.png");
 }
+*/
 
 .debug_table {
   table-layout: fixed;
@@ -2720,6 +2722,7 @@ select > optgroup {
 .cats_col{
 	display: table-cell;
 }
+/*
 .cats_film{
   background-image: url("https://i.imgur.com/VBgoraY.png");
   width: 25px;
@@ -2761,7 +2764,7 @@ select > optgroup {
     background-position: center center;
     background-repeat: no-repeat;
     }
-
+*/
 
 
   /*DETAILS TORRENTS, MASQUAGE HOVER TORRENT VALIDE*/
@@ -3039,4 +3042,4 @@ margin-top: 5px;
 background: none;
 padding: 0px!important;
 }
-	
+
